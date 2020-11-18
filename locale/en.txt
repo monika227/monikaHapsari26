@@ -1,0 +1,18 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Monica Hapsari
+
+## Media
+
+### Title
+panorama_B8EC4C92_AD35_2F28_41D1_CC5BD9C87920.label = R0011317
+panorama_B944F8C2_AD75_5728_41A5_0DD31DCF7F4C.label = 1
+panorama_B9C5FA12_AD37_2B28_41E1_6EA0F979932E.label = R0011318
+panorama_BF150C28_AD75_2F78_41D4_E1DF701A5293.label = 4
+panorama_BF153EBB_AD75_6B58_41CF_24C5948B5A4E.label = 2
+panorama_BF156A21_AD75_2B68_41E5_A86AC52CEFDF.label = 5
